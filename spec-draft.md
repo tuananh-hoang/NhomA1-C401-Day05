@@ -276,7 +276,7 @@ LEARNING SIGNAL
 | Người | Phần |
 |-------|------|
 | Hoàng Tuấn Anh | Canvas + User Stories 4 paths  |
-| Nguyễn Trường | Mini-spec (hoàn thiện)|
+| Nguyễn Quang Trường | Mini-spec (hoàn thiện)|
 | Vũ Hồng Quang | Eval metrics  |
 | Đàm Lê Văn Toàn | Failure modes +  tài liệu XanhSM |
 | Phạm Tuấn Anh | ROI refinement + Prototype setup (LangGraph skeleton) |
